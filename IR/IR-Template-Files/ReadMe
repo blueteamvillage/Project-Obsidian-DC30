@@ -1,0 +1,3 @@
+Incident_Report.ipynb is a conversion of https://github.com/chocolatecoat/DFIR-Templates/blob/main/TEMPLATE_FinalReport.docx into a JupyterNotebook version with slight modifications.
+
+Incident_Case_Template.ipynb is a templatized version of aviditas' generic IR notes base.
