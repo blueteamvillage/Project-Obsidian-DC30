@@ -4,6 +4,10 @@ Please visit the link below to start the CTF:
 
 [https://ctf.blueteamvillage.org/](https://ctf.blueteamvillage.org/)
 
+The CTF will run from 10:00 - 18:00 PST on Friday Aug 12, and Saturday Aug 13.
+
+CTF teams can have a maximum of 4 players.
+
 ## SIEM Access
 
 The SIEMS provided are for use during DEFCON to work along side workshops, talks, and other events.
@@ -11,7 +15,6 @@ The SIEMS provided are for use during DEFCON to work along side workshops, talks
 **These Credentials, and the content of these systems, are for workshop and educational purposes only.  By using these credentials you agree to not grief, deface, or disable these SIEM platforms.**
 
 **Username**:  analyst
-
 **Password**: !2022SecureAllTheThings!
 
 ### Splunk 
@@ -25,9 +28,6 @@ https://kibana.blueteamvillage.com
 
 ### Arkime
 https://arkime.blueteamvillage.com
-
-### Security Onion
-https://seconion.blueteamvillage.com
 
 ### Velociraptor
 https://velociraptor.blueteamvillage.com
