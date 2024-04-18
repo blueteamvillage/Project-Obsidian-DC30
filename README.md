@@ -34,7 +34,15 @@ https://velociraptor.blueteamvillage.com
 
 ## Offline Access
 
-For those interested in exploring data from Blue Team Village talks and workshops further, all logs collected during the execution of Project Obsidian are available for public download at [https://media.blueteamvillage.org/DC30/Obsidian/](https://media.blueteamvillage.org/DC30/Obsidian/)
+For those interested in exploring data from Blue Team Village talks and workshops further:
+
+KC1 Forensics Collection Data can be downloaded here:
+https://github.com/blueteamvillage/Project-Obsidian-DC30/tree/main/Forensics/DC30-KC1
+
+KC3 Forensics Collection Data can be downloaded here:
+https://github.com/blueteamvillage/Project-Obsidian-DC30/tree/main/Forensics/DC30-KC3
+
+All logs collected during the execution of Project Obsidian are available for public download at [https://media.blueteamvillage.org/DC30/Obsidian/](https://media.blueteamvillage.org/DC30/Obsidian/)
 
 Protected .zip files can be unlocked with the passphrase `obsidian is never going to give you up`
 
